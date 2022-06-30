@@ -1,0 +1,3 @@
+# autoCreateYaml
+idea插件第一次提交
+自动生成springboot的application.yaml配置文件
